@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="OctanePluginConnectionSettings" Url="https://mqast001pngx.saas.hpe.com" SharedSpace="27180" WorkSpace="42001" User="amir.khan@microfocus.com" />
-  <component name="OctanePluginState" ACTIVE_WORK_ITEM="{&quot;entityType&quot;:&quot;USER_STORY&quot;,&quot;entityName&quot;:&quot;My first user story in Jira - octane received the story&quot;,&quot;id&quot;:185002}" SEARCH_HISTORY="{&quot;SEARCH_HISTORY&quot;:[]}" />
+  <component name="OctanePluginState" ACTIVE_WORK_ITEM="{&quot;entityType&quot;:&quot;USER_STORY&quot;,&quot;entityName&quot;:&quot;first backlog&quot;,&quot;id&quot;:187001}" SEARCH_HISTORY="{&quot;SEARCH_HISTORY&quot;:[]}" />
   <component name="ProjectRootManager">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
