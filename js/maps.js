@@ -14,6 +14,7 @@ if ($('#map').length) {
       zoom: MapZoom,
       center: MapLocation,
       styles: [{
+      //enter styles here
           "featureType": "landscape.man_made",
           "elementType": "geometry",
           "stylers": [{
