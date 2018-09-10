@@ -44,7 +44,7 @@
       //Applying perfect scrollbar
       if ($('.scroll-container').length) {
         const ScrollContainer = new PerfectScrollbar('.scroll-container');
-        //Defect fix code is written here.
+        //Defect fix code is written here
       }
     }
 
