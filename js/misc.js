@@ -19,6 +19,7 @@
         }
       } else {
         //for other url
+        //Add Code here for Defect Fix.
         if ($this.attr('href').indexOf(current) !== -1) {
           $(this).parents('.nav-item').last().addClass('active');
           if ($(this).parents('.sub-menu').length) {
