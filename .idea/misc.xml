@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="OctanePluginConnectionSettings" Url="https://mqast001pngx.saas.hpe.com" SharedSpace="27180" WorkSpace="42001" User="amir.khan@microfocus.com" />
-  <component name="OctanePluginState" ACTIVE_WORK_ITEM="{&quot;entityType&quot;:&quot;USER_STORY&quot;,&quot;entityName&quot;:&quot;As an user i want to login with phonenumber&quot;,&quot;id&quot;:189007}" SEARCH_HISTORY="{&quot;SEARCH_HISTORY&quot;:[&quot;infometis&quot;]}" OPEN_TABS="{&quot;openDetailTabs&quot;:[]}" />
+  <component name="OctanePluginConnectionSettings" Url="https://almoctane-eur.saas.hpe.com" SharedSpace="146008" WorkSpace="4001" User="amir.khan@microfocus.com" />
+  <component name="OctanePluginState" OPEN_TABS="{&quot;openDetailTabs&quot;:[]}" ACTIVE_WORK_ITEM="{&quot;entityType&quot;:&quot;USER_STORY&quot;,&quot;entityName&quot;:&quot;As a user, I can purchase a stocks in Nasdaq&quot;,&quot;id&quot;:6082}" SEARCH_HISTORY="{&quot;SEARCH_HISTORY&quot;:[&quot;As a user&quot;,&quot;Login&quot;]}" />
   <component name="ProjectRootManager">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
