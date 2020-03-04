@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="OctanePluginConnectionSettings" Url="https://almoctane-eur.saas.hpe.com" SharedSpace="146008" WorkSpace="4001" SSO="true" />
-  <component name="OctanePluginState" SEARCH_HISTORY="{&quot;SEARCH_HISTORY&quot;:[&quot;SCS&quot;,&quot;Login&quot;,&quot;login&quot;]}" OPEN_TABS="{&quot;openDetailTabs&quot;:[]}" />
+  <component name="OctanePluginConnectionSettings" Url="https://almoctane-eur.saas.microfocus.com" SharedSpace="146008" WorkSpace="4001" User="amir.khan@embrace-devops.com" SSO="false" />
+  <component name="OctanePluginState" OPEN_TABS="{&quot;openDetailTabs&quot;:[]}" SEARCH_HISTORY="{&quot;SEARCH_HISTORY&quot;:[]}" />
   <component name="ProjectRootManager">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
